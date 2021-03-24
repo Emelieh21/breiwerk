@@ -1,0 +1,83 @@
+Breiwerk 12
+Achterkant
+88 steken naald 4, zwart
+R; knitPurl: //// //// ////
+Blauw 4.5nld: R; L; R; L; R; L;
+Geel 4.5nld:
+R; L; R; L; R; L; R; L; R; L;
+R; L; R; L; R; L; R; L; R; L;
+R; L; R; L; R; L; R (+2); L;
+Blauw: R; L; R; L; R; L
+Black: R; L; DonkBlauw: R; L;
+Geel:
+R; L; R; L; R; L; R; L; R +2; L; R; L; R; L;
+R; L; R; L; R; L; R; L; R; L; R; L; R; L
+Blauw: R; L; R; L; R; L; (R; L; R; L; r)
+Black: R; L; DonkBlauw: R; L; (38cm)
+Geel:
+R; L; R; L; R; L; R; L; R; L; R; L; R; L;
+R; L; R; L; R; L; R; L; R; L; R; L; R; L;
+Blauw: R; L; R; L
+Geel:
+R; L; R; L; R; L; R; L; R; L; R; L; R; L;
+R; L; (R; L); R; L; R; L; R; L; R (-14 st in het midden;
+shoulder 1: L, R -4 st; L; afgekant
+shoulder 2: steken overgezet, R, L(-4st); R; afgekant;
+
+Voorkant
+88 steken naald 4, zwart
+R; knitPurl: //// //// ////
+Blauw: R; L; R; L; R; L;
+Geel:
+R; L; R; L; R; L; R; L; R; L;
+R; L; R; L; R; L; R; L; R; L;
+R; L; R; L; R; L; R (+2); L;
+Blauw: R; L; R; L; R; L;
+Black: R; L; DonkBlauw: R; L;
+Geel:
+R; L; R; L; R; L; R; L; R +2; L; R; L; R; L;
+R; L; R; L; R; L; R; L; R; L; R; L; R; L
+Blauw: R; L; R; L; R; L;
+Black: R; L; DonkBlauw: R; L;
+Geel:
+R; L; R; L; R; L; R; L; R; L; R; L; R; L;
+R; L; R; L; R; L; R; L; R; L; R; L; R; L;
+Blauw: R; L; R; L;
+Geel:
+R; L; R; L; R; L; R; L; R; L; R; L
+R (-14 in het midden);
+Schouder 1: L; R-4; L; R; L; R; L; R; L; R; L; R; L; R; L afgekant
+Schouder 2: R; L-4; rlr; lrl; rlr; lrlr afgekant
+
+Mouw1: 40 stk DonkBlauw naald 4
+R; knitPurl: //// //// //// ////
+Blauw (nld 4.5): R; L; R; L; R; L;
+Geel:
+R+2; L; R; L; R+2; L; R; L; R+2; L; R; L; R+2; L; R; L; R+2; L; R; L; R+2; L;
+DonkBlauw: R; L; R+2; L;
+Geel:
+R; L; R+2; L; R; L; R+2 L; R; L; R+2; L;
+R; L; R+2 L; R; L; R+2; L; R; L;
+DonkBlauw: R+2; L; R; L;
+Geel: R+2 (at 68); L; R; L; R+2; L; R; L; R+2; L; R; L; R+2; L; R; L; R+2 L; R; L; R+2; L;
+Donker Blauw: R; L; R; L;
+Geel:
+Rlr; lrl; rlr; lrl; rlr; lrl; rlr; lrl, rl rl
+
+Mouw2: 40 stk DonkBlauw naald 4
+R; knitPurl: //// ///(/) //// ////
+Blauw (nld 4.5): R; L; R; lrl;
+Geel:
+R+2; L; R; L; R+2; L; R; L;R+2; L; R; L; R+2; L; R; L; R+2; L; R; L; R+2; L;
+DonkBlauw: R; L; R+2; L;
+Geel:
+R; L; R+2; L; R; L; R+2 L; R; L; R+2; L;
+R; L; R+2 L; R; L; R+2; L; R; L;
+DonkBlauw: R+2; L; R; L;
+Geel: R+2 (at 68); L; R; L; R+2; L; R; L; R+2; L; R; L; R+2; L; R; L; R+2 L; R; L; R+2; L;
+Donker Blauw: R; L; R; L;
+Geel:
+Rlrl rlrl rlrl; rlr; lrl; rlr; lrl, rlrl afgekant
+
+Neckline: donkblauw, 4 rundstrick, 78 steken
+R; knitPurl: //// //..

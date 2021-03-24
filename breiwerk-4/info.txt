@@ -1,0 +1,10 @@
+Breiwerk 4
+
+4.5 naalden, 60 steken opgezet
+Knit: /
+KnitPurl: ///// ///
+MainPart: R (+6, after 5th, then every 10th); L; R; L; R (+10, every sixth); L; R; L; R (+2 after 6 from each side); L; R; L; R (+4, after 12th, then every 18); L; R; L; R (poot gaten, na 10, 9 steken weg); eerste pootstuk: l, r, l, r, l, r, l, r, l, r, l
+Middens: l, r, l, r, l, r, l, r, l, r, l
+Pootstuk: l, r, l, r, l, r, l, r, l, r, l
+MainPart 2: R (alles weer verbonden, 9 steken terug gezet); L; R; L; R; L; R (-4, eerste na 14, dan iedere 18); L; R; L; R (-4 na 12, dan iedere 17); L; R (-4 na 12, dan iedere 16); L (begin -4 iedere kant); R; L; R; L; R; L; R; L; R; L; R; L helemaal door getrokken; R; L met naald 4
+KnitPurl (met 4): ///// ////

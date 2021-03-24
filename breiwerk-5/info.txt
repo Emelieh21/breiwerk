@@ -1,0 +1,10 @@
+Breiwerk 5
+Naald 6, dik garen, 46 steken
+R;
+KnitPurl: //// //// //
+Main: R (+6); L; R; L; R (+6); L; R; L; R (+6); L; (R; L; R (+6)); L; R; L; R (8, 8 afgehaakt, 38, 8 afgehaakt 8)
+Pootstuk: 13 keer, begin L
+Midden: 13 keer, +4 op regel 10
+Pootstuk: 13 keer, begin L
+R (alles weer aan elkaar gebreid, 16 steken terug opgezet); L; R; L; R (-4); L; R; L; R; L; R; L (-2); R (-2); L (begonnen met 3 afnemen aan de zijkant); R; L; R; L (begonnen met 4 afnemen); R; L; R; L; R (terug naar 3); L; R; L; R ... L helemaal door, R helemaal door; L -2;
+KnitPurl: //// //// ////
